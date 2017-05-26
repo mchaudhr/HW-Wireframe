@@ -7,10 +7,7 @@ html {
 
 #fixed {
 	background-color: #D3D3D3;
-	padding-top: 0px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 80px;
+	padding: 30px;
 	width: 90%;
 	text-align:center;
 	margin-right: 30px;
@@ -21,10 +18,7 @@ html {
 
 #relative {
 	background-color: #D3D3D3;
-	padding-top: 0px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 80px;
+	padding: 30px;
 	width: 90%;
 	text-align:center;
 	margin-right: 30px;
@@ -34,11 +28,9 @@ html {
 }
 #aboutme {
 	background-color: #D3D3D3;
-	padding-top: 0px;
-	padding-left: 150px;
-	padding-right: 150px;
-	padding-bottom: 120px;
-	width: 22%;
+	padding: 20px;
+	padding-bottom: 38px;
+	width: 50%;
 	text-align:center;
 	margin-right: 0px;
 	margin-left: 30px;
@@ -46,45 +38,79 @@ html {
 	margin-bottom: 5px;
 	position: relative;
 	float: left;
+
 }
 
 #article {
-	background: #D3D3D3;
+	background: #888;
     text-align: left;
-    width: 90%;
+    width: 97%;
     height: 100px;
     float: left;
     display: inline;
     position: static;
     color: darkgrey;
     text-align: center;
-    margin-right: 15px;
-    margin-left: 15px; 
-    margin-top: 100px;
+    margin-right: 10px;
+    margin-left: 10px; 
+    margin-top: 50px;
+    padding-bottom:30%;
+    padding-top:20px;
  }
+
+ #heading {
+	background: white;
+    text-align: left;
+    width: 93%;
+    height: 10px;
+    float: left;
+    display: inline;
+    position: static;
+    color: darkgrey;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 20px; 
+    margin-top: 70px;
+    padding-bottom:30px;
+    padding-top: 40px;
+ }
+
+ #text {
+	background: white;
+    text-align: left;
+    width: 93%;
+    height: 10px;
+    float: left;
+    display: inline;
+    position: static;
+    color: darkgrey;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding-bottom:30px;
+    padding-top: 40px;
+ }
+
 
 #contactme {
 	background-color: #D3D3D3;
-	padding-top: 0px;
-	padding-left: 150px;
-	padding-right: 150px;
-	padding-bottom: 320px;
-	width: 22%;
+	padding: 40px;
+	width: 34%;
+	padding-bottom: 30%;
 	text-align:center;
-	margin-right: 54px;
+	margin-right: 34px;
 	margin-left: 0px;
 	margin-top: 15px;
 	margin-bottom: 5px;
 	position: relative;
 	float: right;
+	height: 80%;
 }
 
 #footer {
 	background-color: #D3D3D3;
-	padding-top: 0px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 80px;
+	padding: 30px;
 	width: 90%;
 	text-align:center;
 	margin-right: 30px;
